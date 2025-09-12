@@ -40,6 +40,7 @@ body {
 .text {
   border: 1px rgb(3, 2, 2);
   border-radius: 50px;
+  background-color: burlywood;
   height: 20px;
   width: 40px;
   font-size: 30px;
