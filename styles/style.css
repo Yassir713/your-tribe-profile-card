@@ -25,12 +25,8 @@ ul {
   display: flex;
   justify-content: center;  
   gap: 40px;              
-  padding: 0px 1100px;
 }
 
-ul li {
-  gap: 40px;
-}
 
 
 .info {
