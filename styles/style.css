@@ -20,17 +20,24 @@ body {
     margin-top: 50px;
 }
 
-ul {
+
+ul { 
   display: flex;
   justify-content: center;  
-  gap: 40px;                
-  margin-top: 50px;
+  gap: 40px;              
+  padding: 0px 1100px;
 }
+
+ul li {
+  gap: 40px;
+}
+
 
 .info {
   display: flex;
   justify-content: center;  
   margin-top: 25px;
+  gap: 40px;
 }
 
 .info p {
